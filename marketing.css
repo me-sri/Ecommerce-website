@@ -1,0 +1,92 @@
+
+#amazon{
+	margin-left: 20px;
+}
+#card{
+	
+	width: 13%;
+	margin: 0 auto;
+	margin-top: 5px;
+
+	color: tomato;
+	border-bottom: 2px solid;
+
+}
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+/*  #heart{
+  color:white;
+   font-size: 32px;"
+}*/
+body{
+
+}
+.Login{
+	border: 2px solid;
+	background-color: green;
+	border-radius: 10px;
+
+}
+label{
+	width: 20%;
+}
+#small{
+border-radius: 50%;
+width: 20%;
+}
+/*.col{*/
+/*text-align: center;*/
+}
+#About{
+	text-align: center;
+color: white;
+background-color: blacks;
+}
+
+#para{
+	margin-right: 30%;
+}
+#About{
+	box-shadow: 5px 5px 4px;
+}
+
+#imgc{
+	text-align: center;
+}
+#btn{
+
+	padding: 11px 29px;
+	margin: 12px 12pxs;
+border-radius: 20%;
+text-align: center;
+font-size: 20px;
+
+}
+#btn:hover{
+	background-color: red;
+	color: black;
+}
+#login{
+	background-color: red;
+	color: white;
+	border-radius: 12px;
+}
+#login:hover{
+	background-color: yellowgreen;
+}
+#shoping{
+	background-color: green;
+}
+
+@media only screen and (max-width: 500px) {
+	#shoping{
+		margin-top: 12px
+	} 
+	}
+ }
+@media only screen and (max-width: 650px) {
+	#Featured{
+		margin-top: 20px;
+	}

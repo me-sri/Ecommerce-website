@@ -1,0 +1,26 @@
+#icons{
+	color: green;
+}
+.box{
+	width: 250px;
+	margin: 0 10px;s
+
+}
+.box img{
+	display: block;
+	width: 100%;
+	border-radius: 5px;
+	transition:  2s;
+}
+.box:hover{
+transform:scale(0.9);
+}
+.down{
+	margin-top: 20px;
+}
+@media only screen and (min-width: 450px) {
+	#prodcut h3{
+		margin-top: 10px;
+		margin-bottom: 17px;
+	}
+ }
